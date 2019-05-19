@@ -6,6 +6,7 @@ W folderze Nowik_Java11_jar i Nowik_Java09_jar znajduje się plik wykonywalny ja
 Aby uruchomić program wpisujemy w konsoli (Windows, Linux):
 
 cd <ścieżka do pliku jar>  np. C:/Users/Nowik/Downloads/Nowik_Java11_jar
+
 java -jar Nowik_Java11.jar
 
 Wykonane w Intellij IDEA Version 2019.1.2
