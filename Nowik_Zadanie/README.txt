@@ -1,10 +1,10 @@
-W zale¿noœci na jakiej wersji Javy pracujemy œci¹gamy Nowik_Java11 i Nowik_Java11_jar lub Nowik_Java09 i Nowik_Java09_jar.
-Obie wersje dzia³aj¹ tak samo, ró¿ni¹ siê trochê kodem.
-W folderze Nowik_Java11 i Nowik_Java09 znajduj¹ siê kody Ÿród³owe.
-W folderze Nowik_Java11_jar i Nowik_Java09_jar znajduje siê plik wykonywalny jar.
+W zaleÅ¼noÅ›ci na jakiej wersji Javy pracujemy (domyÅ›lnie 11+) Å›ciÄ…gamy Nowik_Java11 i Nowik_Java11_jar lub Nowik_Java09 i Nowik_Java09_jar.
+Obie wersje dziaÅ‚ajÄ… tak samo, rÃ³Å¼niÄ… siÄ™ trochÄ™ kodem.
+W folderze Nowik_Java11 i Nowik_Java09 znajdujÄ… siÄ™ kody ÅºrÃ³dÅ‚owe.
+W folderze Nowik_Java11_jar i Nowik_Java09_jar znajduje siÄ™ plik wykonywalny jar.
 
-Aby uruchomiæ program wpisujemy w konsoli (Windows, Linux):
-cd <œcie¿ka do pliku jar>  np. C:/Users/Nowik/Downloads/Nowik_Java11_jar
+Aby uruchomiÄ‡ program wpisujemy w konsoli (Windows, Linux):
+cd <Å›cieÅ¼ka do pliku jar>  np. C:/Users/Nowik/Downloads/Nowik_Java11_jar
 java -jar Nowik_Java11.jar
 
 Wykonane w Intellij IDEA Version 2019.1.2
