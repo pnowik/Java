@@ -1,4 +1,4 @@
-W zależności na jakiej wersji Javy pracujemy ściągamy Nowik_Java11 i Nowik_Java11_jar lub Nowik_Java09 i Nowik_Java09_jar.
+W zależności na jakiej wersji Javy pracujemy (domyślnie Java11+) ściągamy Nowik_Java11 i Nowik_Java11_jar lub Nowik_Java09 i Nowik_Java09_jar.
 Obie wersje działają tak samo, różnią się trochę kodem.
 W folderze Nowik_Java11 i Nowik_Java09 znajdują się kody źródłowe.
 W folderze Nowik_Java11_jar i Nowik_Java09_jar znajduje się plik wykonywalny jar.
