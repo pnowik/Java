@@ -4,6 +4,7 @@ W folderze Nowik_Java11 i Nowik_Java09 znajdują się kody źródłowe.
 W folderze Nowik_Java11_jar i Nowik_Java09_jar znajduje się plik wykonywalny jar.
 
 Aby uruchomić program wpisujemy w konsoli (Windows, Linux):
+
 cd <ścieżka do pliku jar>  np. C:/Users/Nowik/Downloads/Nowik_Java11_jar
 java -jar Nowik_Java11.jar
 
