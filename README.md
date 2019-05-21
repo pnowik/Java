@@ -9,10 +9,13 @@ https://www.oracle.com/technetwork/java/javase/downloads/index.html
 Ustawiamy zmienne środowiskowe:
 
 Linux (java-7-openjdk jako przykład):
+
 export JAVA_HOME=/usr/lib/jvm/java-7-openjdk 
+
 export PATH=$PATH:/usr/lib/jvm/java-7-openjdk/bin
 
 Windows:
+
 set path=%path%;C:\Program Files\Java\jdk1.7.0\bin
 
 Aby uruchomić program wpisujemy w konsoli (Windows, Linux):
